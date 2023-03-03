@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 | - Ceaser Cipher   | - My First Ceaser Cipher project             | https://github.com/EllyOkumuAzubi/1.-Ceasar-Cipher.git                          |
+| 2 | - Store Analysis  | - Store analysis using Numpy and Pandas      | https://github.com/EllyOkumuAzubi/2.-Store-Analysis-with-Numpy-and-Pandas.git   |
+| 3 | - ML Introduction | - Supervised and unsupervised Learning intro | https://github.com/EllyOkumuAzubi/3.-Supervised-and-Unsupervised-Learning.git   |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
